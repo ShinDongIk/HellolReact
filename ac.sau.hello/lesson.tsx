@@ -5,7 +5,7 @@ export default class Lesson extends React.Component {
     render() {
         return(
         <View>
-            <Text  style={styles.bigBlue}>수업 이름</Text>
+            <Text  style={styles.bigBlue}>수업이름</Text>
         </View>
         );
     }
